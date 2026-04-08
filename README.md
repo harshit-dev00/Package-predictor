@@ -6,7 +6,7 @@ Package Predictor
 
 
 
-*## Features*
+* Features*
 
 *- Predicts package using Machine Learning model*
 
