@@ -2,7 +2,7 @@ Package Predictor
 
 
 
-*An AI-based application to predict student salary packages based on academic performance (CGPA).*
+#An AI-based application to predict student salary packages based on academic performance (CGPA).
 
 
 
